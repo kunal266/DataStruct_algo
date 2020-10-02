@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588380149 source:c:\users\lenovo\documents\c++\createtree\main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1599325363 source:c:\users\lenovo\documents\c++\tree2\main.cpp
+	<iostream>
+	<set>
+	<iterator>
+

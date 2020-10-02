@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590386203 source:c:\users\lenovo\documents\c++\strsplit\main.cpp
+	<iostream>
+	<string.h>
+
